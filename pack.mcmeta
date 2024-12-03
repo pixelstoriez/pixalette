@@ -1,6 +1,7 @@
 {
  "pack": {
-   "pack_format": 13,
+   "pack_format": 15,
+   "supported_formats": [15, 32767]
    "description": "§7Version 1.1.2                        §8By Pixelstories"
  }
 }
